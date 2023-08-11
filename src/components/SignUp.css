@@ -1,0 +1,26 @@
+.signup-container {
+    max-width: 400px;
+    margin: 0 auto;
+    padding: 20px;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    background-color: #fff;
+    margin-top: 15px;
+  }
+  
+  .signup-container h2 {
+    margin-bottom: 20px;
+  }
+  
+  .signup-container .form-group {
+    margin-bottom: 20px;
+  }
+  .signup-container .alert {
+    margin-bottom: 20px;
+  }
+  
+  .signup-container button[type='submit'] {
+    width: 100%;
+    margin-top: 5px;
+  }
+  
